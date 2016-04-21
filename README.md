@@ -136,4 +136,5 @@ Bookmarklets, and Chrome plugin.  That said, some other blockers:
 * http://motherboard.vice.com/read/theres-now-a-script-to-block-genius-from-annotating-your-website
 * http://glog.glennf.com/blog/2016/3/25/citation-appropriation-and-fair-use
 * http://glog.glennf.com/blog/2016/3/28/web-annotation-addenda
+* http://thinkprogress.org/culture/2016/03/30/3764816/news-genius-definitely-sounds-like-a-great-idea-cant-imagine-what-could-go-wrong/
 
