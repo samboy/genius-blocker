@@ -57,6 +57,11 @@ This script blocks Genius from being able to add annotations to a given
 web page.  Not only does it block “genius.it” URLs, it also blocks Genius’s
 bookmarklet and Chrome plugin.
 
+People who try to put abusive graffiti on a webpage using a “genius.it”
+URL will be silently redirected to the non-Genius form of the URL.  If
+the troll tries to use the bookmarklet or Chrome plugin, it will silently
+fail.
+
 ## How to install it.
 
 Put the file genius-blocker.js in the same directory as the html
