@@ -1,4 +1,4 @@
-# Yet abother Genius blocker
+# Yet another Genius blocker
 
 This is yet another Genius blocker.  I have combined elements from 
 [Todd Kennedy’s Genius blocker](https://github.com/toddself/genius-blocker)
