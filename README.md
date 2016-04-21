@@ -123,7 +123,6 @@ Bookmarklets, and Chrome plugin.  That said, some other blockers:
 
 * http://observer.com/2016/03/genius-web-annotator-emma-dawson-alana-massey/
 * http://www.slate.com/articles/double_x/doublex/2016/03/news_genius_wants_to_annotate_the_entire_web_at_what_cost.html
-* http://recode.net/2016/03/28/the-company-formerly-known-as-rap-genius-is-once-again-enmeshed-in-controversy/
 * https://www.plagiarismtoday.com/2016/04/05/news-genius-site-not-community/
 * http://www.managingcommunities.com/2016/04/04/genius-56-9-million-in-funding-6-years-to-add-a-report-abuse-button/
 * https://wanderinpoet.wordpress.com/2016/03/31/how-news-genius-silences-writers/
@@ -131,7 +130,6 @@ Bookmarklets, and Chrome plugin.  That said, some other blockers:
 * https://christhilk.com/2016/03/31/genius-raises-questions-about-who-owns-conversations/
 * http://www.capitalnewyork.com/article/media/2016/03/8595178/genius-adds-report-abuse-button-following-criticism
 * http://fortune.com/2016/03/30/genius-harassment/
-* http://technewsdb.com/genius-responds-to-congresswoman-katherine-clarks-letter-on-preventing-abuse/
 * http://technical.ly/brooklyn/2016/03/29/genius-created-new-tool-annotating-peoples-articles-ho-boy-go/
 * http://technewsdb.com/the-company-formerly-known-as-rap-genius-is-once-again-enmeshed-in-controversy/
 * http://known.kevinmarks.com/2016/soi-disant-genius-is-a-magnet-for-condescension
