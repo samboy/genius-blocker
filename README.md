@@ -127,7 +127,6 @@ Bookmarklets, and Chrome plugin.  That said, some other blockers:
 * https://www.plagiarismtoday.com/2016/04/05/news-genius-site-not-community/
 * http://www.managingcommunities.com/2016/04/04/genius-56-9-million-in-funding-6-years-to-add-a-report-abuse-button/
 * https://wanderinpoet.wordpress.com/2016/03/31/how-news-genius-silences-writers/
-* https://christhilk.com/2016/03/31/genius-raises-questions-about-who-owns-conversations/
 * https://mslifeisbestlife.com/2016/03/30/silence-safety-belief-news-genius/
 * https://christhilk.com/2016/03/31/genius-raises-questions-about-who-owns-conversations/
 * http://www.capitalnewyork.com/article/media/2016/03/8595178/genius-adds-report-abuse-button-following-criticism
