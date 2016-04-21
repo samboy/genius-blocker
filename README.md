@@ -36,20 +36,20 @@ SideWiki was a haven for spammers, trolls, crackpots and pretty much
 no one else. Here is some of the documented abuse SideWiki was forcing
 webmasters to put up with:
 
-    [http://marketersboard.com/google-sidewiki-controversy/](https://archive.is/7BN3Z)
+[http://marketersboard.com/google-sidewiki-controversy/](https://archive.is/7BN3Z)
 
 Also, here is Jeff Jarvis’ well articulated criticism of SideWiki:
 
-    http://buzzmachine.com/2009/09/23/google-sidewiki-danger/ 
+http://buzzmachine.com/2009/09/23/google-sidewiki-danger/ 
 
 Genius is pretty much the same thing, and it’s also causing
 controversey:
 
-    https://ellacydawson.wordpress.com/2016/03/25/how-news-genius-silences-writers/
+https://ellacydawson.wordpress.com/2016/03/25/how-news-genius-silences-writers/
 
 A congresswoman even chipped in to complain about the service:
 
-    http://recode.net/2016/03/29/genius-responds-to-congresswoman-katherine-clarks-letter-on-preventing-abuse/
+http://recode.net/2016/03/29/genius-responds-to-congresswoman-katherine-clarks-letter-on-preventing-abuse/
 
 ## What this script does
 
@@ -64,7 +64,7 @@ files which you want to not allow to be annotated by Genius.
 
 Put this at the *BOTTOM* of a given .html file, just before the closing
 `</body>`
-tag, such as like this:
+tag:
 
 ```html
 <script src="genius-blocker.js"></script>
