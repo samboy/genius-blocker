@@ -107,3 +107,16 @@ It’s also possible to have an absolute path to genius-blocker.js; it
 does not need to be in the same directory (I only suggest this because
 doing so makes it a bit easier to describe how to install).
 
+## Some other Genius blockers
+
+Please note that not all Genius blockers block the “genius.it” URLs,
+Bookmarklets, and Chrome plugin.  That said, some other blockers:
+
+* https://github.com/toddself/genius-blocker
+* https://github.com/marlabrizel/genius-blocker
+* https://www.seancassidy.me/genius-blocker.html
+* http://www.vijithassar.com/2641/how-to-block-genius-annotations 
+* https://github.com/cxxr/GeniusBlocker
+* https://github.com/notian/Genius.it-Blocker
+
+
