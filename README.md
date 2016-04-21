@@ -62,7 +62,7 @@ URL will be silently redirected to the non-Genius form of the URL.  If
 the troll tries to use the bookmarklet or Chrome plugin, it will silently
 fail.
 
-## How to install it.
+## How to install it
 
 Put the file genius-blocker.js in the same directory as the html
 files which you want to not allow to be annotated by Genius.
@@ -116,7 +116,27 @@ Bookmarklets, and Chrome plugin.  That said, some other blockers:
 * https://github.com/marlabrizel/genius-blocker
 * https://www.seancassidy.me/genius-blocker.html
 * http://www.vijithassar.com/2641/how-to-block-genius-annotations 
-* https://github.com/cxxr/GeniusBlocker
 * https://github.com/notian/Genius.it-Blocker
+* https://github.com/kevinmarks/savant
 
+## More discussion
+
+* http://observer.com/2016/03/genius-web-annotator-emma-dawson-alana-massey/
+* http://www.slate.com/articles/double_x/doublex/2016/03/news_genius_wants_to_annotate_the_entire_web_at_what_cost.html
+* http://recode.net/2016/03/28/the-company-formerly-known-as-rap-genius-is-once-again-enmeshed-in-controversy/
+* https://www.plagiarismtoday.com/2016/04/05/news-genius-site-not-community/
+* http://www.managingcommunities.com/2016/04/04/genius-56-9-million-in-funding-6-years-to-add-a-report-abuse-button/
+* https://wanderinpoet.wordpress.com/2016/03/31/how-news-genius-silences-writers/
+* https://christhilk.com/2016/03/31/genius-raises-questions-about-who-owns-conversations/
+* https://mslifeisbestlife.com/2016/03/30/silence-safety-belief-news-genius/
+* https://christhilk.com/2016/03/31/genius-raises-questions-about-who-owns-conversations/
+* http://www.capitalnewyork.com/article/media/2016/03/8595178/genius-adds-report-abuse-button-following-criticism
+* http://fortune.com/2016/03/30/genius-harassment/
+* http://technewsdb.com/genius-responds-to-congresswoman-katherine-clarks-letter-on-preventing-abuse/
+* http://technical.ly/brooklyn/2016/03/29/genius-created-new-tool-annotating-peoples-articles-ho-boy-go/
+* http://technewsdb.com/the-company-formerly-known-as-rap-genius-is-once-again-enmeshed-in-controversy/
+* http://known.kevinmarks.com/2016/soi-disant-genius-is-a-magnet-for-condescension
+* http://motherboard.vice.com/read/theres-now-a-script-to-block-genius-from-annotating-your-website
+* http://glog.glennf.com/blog/2016/3/25/citation-appropriation-and-fair-use
+* http://glog.glennf.com/blog/2016/3/28/web-annotation-addenda
 
