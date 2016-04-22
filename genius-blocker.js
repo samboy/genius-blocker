@@ -34,7 +34,8 @@ eval(vh);
       if (mutation.type === 'childList' && mutation.addedNodes.length > 0) {
         for (var j = 0, jlen = mutation.addedNodes.length; j < jlen; j++) {
           var node = mutation.addedNodes[j];
-          if (/genius/i.test(node.nodeName)) {
+          if (/genius/i.test(node.nodeName) || 
+	      /annotator/i.test(node.className)) {
             node.remove();
           }
         }
