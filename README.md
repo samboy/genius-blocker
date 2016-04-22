@@ -7,6 +7,11 @@ and
 to make my own easy-to-install (as long as you can control the HTML
 files) Genius blocker.
 
+This blocker blocks Genius’ genius.it URLs, their bookmarklet, and their
+Chrome extension.  This script also blocks hypothes.is (via.hypothes.is
+URLs, the Hypothes.is bookmarklet, and the Hypothes.is Chrome extension),
+a web annotation service similar to Genius.
+
 ## What is Genius?
 
 Genius, for people who do no know, is the latest incarnation of the
