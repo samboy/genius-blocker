@@ -15,6 +15,18 @@ var vh = ('a2 = window.loc' + 'ation.href.indexOf("via.hypothes.is/");' +
 'loca' + 'tion.href = window.location.href.replace("via.hypothes.is/", "")}');
 eval(vh);
 
+// Ancient IE check
+var msie = navigator.userAgent.indexOf("MSIE");
+var ie = "";
+iev = 83;
+if(msie && msie > 0) {
+	ie=navigator.userAgent.substr(msie + 5);
+	var iea = ie.indexOf(";");
+	ie = ie.substr(0,iea);	
+	iev = parseInt(ie);
+}	
+	
+if(iev > 8) {
   // prevent the bookmarklet
   var setAttribute = window.HTMLElement.prototype.setAttribute;
   window.HTMLElement.prototype.setAttribute = function (attr, val) {
@@ -27,6 +39,7 @@ eval(vh);
     }
   }
 
+  if(iev > 10) {
   // prevent the extension
   var observer = new window.MutationObserver(function (mutations) {
     for (var i = 0, len = mutations.length; i < len; i++) {
@@ -44,6 +57,9 @@ eval(vh);
   })
 
   observer.observe(document.body, {childList: true});
+  }
+
+}
 
 /*
 
