@@ -8,9 +8,14 @@ to make my own easy-to-install (as long as you can control the HTML
 files) Genius blocker.
 
 This blocker blocks Genius’ genius.it URLs, their bookmarklet, and their
-Chrome extension.  This script also blocks hypothes.is (via.hypothes.is
+Chrome extension.  This script also blocks Hypothes.is (via.hypothes.is
 URLs, the Hypothes.is bookmarklet, and the Hypothes.is Chrome extension),
 a web annotation service similar to Genius.
+
+This script includes checks for ancient versions of IE (Internet
+Explorer), so users of, say, IE 8 won’t get Javascript errors when we
+change a function’s prototype.  Neither Genius nor Hypothes.is function
+when the version of IE is too old to run this blocker.
 
 ## What is Genius?
 
