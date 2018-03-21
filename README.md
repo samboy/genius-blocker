@@ -151,7 +151,7 @@ Bookmarklets, and Chrome plugin.  That said, some other blockers:
 * https://medium.com/@glennf/citation-appropriation-and-fair-use-news-genius-picks-up-again-where-failures-left-off-d640719a82ab
 * http://thinkprogress.org/culture/2016/03/30/3764816/news-genius-definitely-sounds-like-a-great-idea-cant-imagine-what-could-go-wrong/
 
-## Archived discussion about other "Web Graffiti" systems
+## Archived discussion about other now-dead "Web Graffiti" systems
 
 * https://archive.is/NSX1q -- Say NO To Third Voice (the original 1999
   Web Graffiti system which died in 2001)
