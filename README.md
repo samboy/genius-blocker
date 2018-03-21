@@ -155,7 +155,7 @@ Bookmarklets, and Chrome plugin.  That said, some other blockers:
 
 * https://archive.is/NSX1q -- Say NO To Third Voice (the original 1999
   Web Graffiti system which died in 2001)
-* https://archive.is/7BN3Z -- The Google Sidewiki Controversey (2009 "Web
+* https://archive.is/7BN3Z -- The Google Sidewiki Controversey (2009 Web
   Graffiti system which died in 2011)
 * http://varley.net/Pages/VarleyNews/The%20Sidewiki%20Abomination.htm
 * http://buzzmachine.com/2009/09/23/google-sidewiki-danger/
