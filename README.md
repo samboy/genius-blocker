@@ -48,7 +48,7 @@ webmasters to put up with:
 
 [http://marketersboard.com/google-sidewiki-controversy/](https://archive.is/7BN3Z)
 
-http://varley.net/Pages/VarleyNews/The%20Sidewiki%20Abomination.htm
+[http://varley.net/Pages/VarleyNews/The%20Sidewiki%20Abomination.htm](https://archive.ph/RCpRh)
 
 Also, here is Jeff Jarvis’ well articulated criticism of SideWiki:
 
