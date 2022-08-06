@@ -119,6 +119,21 @@ It’s also possible to have an absolute path to genius-blocker.js; it
 does not need to be in the same directory (I only suggest this because
 doing so makes it a bit easier to describe how to install).
 
+## 2022 update
+
+News Genius has not updated their site since 2016, their Chrome 
+extension no longer exists, it does not appear to be possible to
+sign in and leave new comments (“annotations”) with News Genius,
+but it’s still possible to view old News Genius annotations.
+
+There is no notice from News Genius that annotations have been shut
+down, but the project appears abandoned and is slowly rotting away as
+the web updates and moves on.
+
+Since it’s still possible to view old annotations, I will keep this script
+installed to make it clear to anyone still using News Genius that
+the extension is not welcome on my websites.
+
 ## Some other Genius blockers
 
 Please note that not all Genius blockers block the “genius.it” URLs,
